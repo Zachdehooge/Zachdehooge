@@ -1,5 +1,7 @@
 <div align="center">
-
-### Languages I'm learning:
-  <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+## Hey!
+  I'm Zach, a 22 year old software development student from Tennessee.
+  
+### Languages and Tools 🛠 
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
