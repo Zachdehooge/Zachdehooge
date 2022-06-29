@@ -4,7 +4,7 @@
 - My name is Zach DeHooge, I am a 22 year old software development student living in Tennessee!👨🏽‍💻
 - Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=CSharp&logoColor=ffffff)
 - My goal is to be proficient in the fundamentals and advanced concepts of CSharp and Powershell to land a software engineer position!
-- Scripting/Programming languages I am looking to familiarize myself with: ![DotNet](http://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
+- Scripting/Programming languages I am looking to familiarize myself with: ![DotNet](http://img.shields.io/badge/-.NetCore-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
 
 
 ## Languages and Tools 🛠 
