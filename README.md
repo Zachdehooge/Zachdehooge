@@ -2,12 +2,12 @@
   
 ## Hey there!
 - My name is Zach DeHooge, I am a 22 year old software development student living in Tennessee!👨🏽‍💻
-- Languages I am currently studying: ![Java](http://img.shields.io/badge/-Java-C300FF?style=flat-square&logo=Android&logoColor=ffffff)
+- Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=Csharp&logoColor=ffffff)
 - My goal is to be proficient in the fundamentals and advanced concepts of Java and Powershell to land a software engineer position!
 
 
 ## Languages and Tools 🛠 
-![Java](http://img.shields.io/badge/-Java-C300FF?style=flat-square&logo=Android&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=Csharp&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-PowerShell-000FFF?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-DA00FF?style=flat-square&logo=intellij-idea&logoColor=ffffff)
