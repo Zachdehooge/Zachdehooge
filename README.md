@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hey there!
-- My name is Zach DeHooge, I am a 22 year old software development student at WGU living in Georgia!💻
+- My name is Zach DeHooge, I am a 22 year old software development student at WGU!💻
 - Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=Csharp&logoColor=ffffff)
 - My goal is to be proficient in the fundamentals and advanced concepts of CSharp and Powershell to land an entry level Software-Development position!
 
