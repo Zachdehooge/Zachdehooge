@@ -1,19 +1,16 @@
 <div align="center">
   
 ## Hey there!
-- My name is Zach DeHooge, I am a 23 year old software development student at WGU!💻
-- Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=Csharp&logoColor=ffffff)
-- My goal is to be proficient in the fundamentals and advanced concepts of CSharp and Powershell to land an entry level Software-Development position!
+- My name is Zach DeHooge, I am a 23 year old CyberSecurity Student!💻
+- Languages I am currently studying: ![Python](http://img.shields.io/badge/-Python-c20000?style=flat-square&logo=Python&logoColor=ffffff)
+- My goal is to be proficient in the fundamentals and advanced concepts of Python and Powershell to land an entry level CyberSecurity position!
 
 
 ## Languages and Tools 🛠 
-![C#](http://img.shields.io/badge/-CSharp-C300FF?style=flat-square&logo=Csharp&logoColor=ffffff)
-![SQL](http://img.shields.io/badge/-SQLite-ff2bbf?style=flat-square&logo=SQLite&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-PowerShell-000FFF?style=flat-square&logo=powershell&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-DA00FF?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%f4fc03?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VisualStudio](https://img.shields.io/badge/-Visual_Studio-bd5436?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Rider](https://img.shields.io/badge/-Rider-c20000?style=flat-square&logo=rider&logoColor=ffffff)
+![Pycharm](https://img.shields.io/badge/-PyCharm-8403fc?style=flat-square&logo=pycharm&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
   
 <!-- 
