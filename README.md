@@ -13,6 +13,9 @@
 ![Pycharm](https://img.shields.io/badge/-PyCharm-8403fc?style=flat-square&logo=pycharm&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
   
+## Socials
+  ![TryHackMe](http://img.shields.io/badge/-TryHackMe-c20000?style=flat-square&logo=tryhackme&logoColor=ffffff) https://tryhackme.com/p/Zach.DeHooge
+  
 <!-- 
 Syntax for making an icon on a ReadME goes as follows
 
