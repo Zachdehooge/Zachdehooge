@@ -2,7 +2,7 @@
   
 ## Hey there!
 - My name is Zach DeHooge, I am a 23 year old CyberSecurity Student!💻
-- Languages I am currently studying: ![Java](http://img.shields.io/badge/-Java-c20000?style=flat-square&logo=java&logoColor=ffffff)
+- Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-c20000?style=flat-square&logo=csharp&logoColor=ffffff)
 - My goal is to be proficient in the fundamentals and advanced concepts of Python and Powershell to land an entry level CyberSecurity position!
 
 
