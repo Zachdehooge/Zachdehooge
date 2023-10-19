@@ -2,7 +2,7 @@
   
 ## Hey there!
 - My name is Zach DeHooge, I am a 23 year old CyberSecurity Student!💻
-- Languages I am currently studying: ![C#](http://img.shields.io/badge/-CSharp-c20000?style=flat-square&logo=csharp&logoColor=ffffff)
+- Languages I am currently studying: ![Python](http://img.shields.io/badge/-Python-c20000?style=flat-square&logo=python&logoColor=ffffff)
 - My goal is to be proficient in the fundamentals and advanced concepts of Python and Powershell to land an entry level CyberSecurity position!
 
 
@@ -10,7 +10,7 @@
 ![Powershell](http://img.shields.io/badge/-PowerShell-000FFF?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%f4fc03?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VisualStudio](https://img.shields.io/badge/-Visual_Studio-bd5436?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Intellij](https://img.shields.io/badge/-Intellij-8403fc?style=flat-square&logo=intellijidea&logoColor=ffffff)
+![Pycharm](https://img.shields.io/badge/-Pycharm-8403fc?style=flat-square&logo=pycharm&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
   
 ## Socials
