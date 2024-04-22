@@ -14,6 +14,7 @@
 ![C++](http://img.shields.io/badge/-C++-c20000?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![CLion](https://img.shields.io/badge/-CLion-00A452?style=flat-square&logo=clion&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
+![Snyk](https://img.shields.io/badge/-Snyk-009cff?style=flat-square&logo=snyk&logoColor=%23ffffff)
 
 <!--
 ## Socials
