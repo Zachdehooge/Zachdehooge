@@ -16,6 +16,7 @@
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
 ![Snyk](https://img.shields.io/badge/-Snyk-009cff?style=flat-square&logo=snyk&logoColor=%23ffffff)
 ![WSL](https://img.shields.io/badge/-WSL-ff752b?style=flat-square&logo=ubuntu&logoColor=%23ffffff)
+![DOCKER](https://img.shields.io/badge/-Docker-2a00ff?style=flat-square&logo=docker&logoColor=%#1000ff)
 
 <!--
 ## Socials
