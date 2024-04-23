@@ -15,6 +15,7 @@
 ![CLion](https://img.shields.io/badge/-CLion-00A452?style=flat-square&logo=clion&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
 ![Snyk](https://img.shields.io/badge/-Snyk-009cff?style=flat-square&logo=snyk&logoColor=%23ffffff)
+![WSL](https://img.shields.io/badge/-WSL-ff752b?style=flat-square&logo=ubuntu&logoColor=%23ffffff)
 
 <!--
 ## Socials
@@ -22,5 +23,5 @@
   
 Syntax for making an icon on a ReadME goes as follows
 
-![(Name of language)](http://img.shields.io/badge/-(name of language)-(background color)?style=flat-square&logo=(look on simple icons .org for a hex key)&logoColor=ffffff)
+![(Name of language)](`http://img.shields.io/badge/`-(name of language)-(background color)?style=flat-square&logo=(look on simple icons .org for a hex key)&logoColor=ffffff)
 -->
