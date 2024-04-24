@@ -10,7 +10,7 @@
 ![Powershell](http://img.shields.io/badge/-PowerShell-000FFF?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%f4fc03?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VisualStudio](https://img.shields.io/badge/-Visual_Studio-bd5436?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Pycharm](https://img.shields.io/badge/-Pycharm-8403fc?style=flat-square&logo=pycharm&logoColor=ffffff)
+![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-8403fc?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-c20000?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![CLion](https://img.shields.io/badge/-CLion-00A452?style=flat-square&logo=clion&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=%23ffffff)
