@@ -10,8 +10,9 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=cpp,cmake,python,powershell,linux,kali,neovim,vscode)](https://skillicons.dev)
 
 ## Socials
-<img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png" alt="TryHackMe">
-  
+<a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a>
+
+
 <!--  [![TryHackMe](http://img.shields.io/badge/-TryHackMe-c20000?style=flat-square&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/Zach.DeHooge)
   
 <!--
