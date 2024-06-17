@@ -3,7 +3,7 @@
 ## Hey there!
 - My name is Zach DeHooge, I am a 24 year old CyberSecurity Student!💻
 - Languages I am currently studying: ![C++](http://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=ffffff) ![Go](http://img.shields.io/badge/-CMake-000000?style=flat-square&logo=cmake&logoColor=ffff00)
-- My goal is to be proficient in the fundamentals and advanced concepts of Python, Powershell and GO to land an entry level CyberSecurity position!
+- My goal is to be proficient in the fundamentals and advanced concepts of malware analysis tools and programming languages to land an entry level CyberSecurity position!
 
 
 ## Languages and Tools 🛠 
