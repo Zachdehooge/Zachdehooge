@@ -14,6 +14,7 @@
 
 <a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a>
 
+[![wakatime](https://wakatime.com/badge/user/6a993b56-d46c-4efe-9ba6-1a65c094fea1.svg)](https://wakatime.com/@6a993b56-d46c-4efe-9ba6-1a65c094fea1)
 
 
 <!--  [![TryHackMe](http://img.shields.io/badge/-TryHackMe-c20000?style=flat-square&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/Zach.DeHooge)
