@@ -7,7 +7,7 @@
 
 
 ## Languages and Tools 🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=golang,cpp,python,cmake,powershell,linux,kali,neovim,vscode)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=golang,python,powershell,linux,kali,neovim,vscode)](https://skillicons.dev)
 
 ## Socials
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
