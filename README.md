@@ -3,7 +3,7 @@
 ## Howdy!
  My name is Zach DeHooge, I am a 24 year old CyberSecurity Student!💻
 
- My goal is to be proficient in the fundamentals and advanced concepts of malware analysis tools and programming languages to land an entry level CyberSecurity position!
+ My goal is to be proficient in the fundamentals and advanced concepts of malware analysis tools and programming languages to land an entry level DevSecOps position!
 
 
 ## Languages and Tools 🛠 
