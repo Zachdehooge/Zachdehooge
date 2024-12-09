@@ -1,13 +1,13 @@
 <div align="center">
   
 ## Howdy!
- My name is Zach DeHooge, I am a 24 year old CyberSecurity Student!💻
+ My name is Zach DeHooge, I am a 24 year old CyberSecurity Graduate!💻
 
- My goal is to be proficient in the fundamentals and advanced concepts of malware analysis tools and programming languages to land an entry level DevSecOps position!
+ My goal is to be proficient in the fundamentals of development and code security to land an entry level DevSecOps position!
 
 
 ## Languages and Tools 🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=golang,python,powershell,linux,kali,neovim,vscode)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=golang,python,powershell,bash,linux,azure,vscode)](https://skillicons.dev)
 
 ## Socials
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
