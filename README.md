@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Howdy!
- My name is Zach DeHooge, I am a 24 year old CyberSecurity Graduate!💻
+ My name is Zach DeHooge, I am a 24 year old CyberSecurity Graduate!🎓
 
  My goal is to be proficient in the fundamentals of development and code security to land an entry level DevSecOps position!
 
