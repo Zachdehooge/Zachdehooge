@@ -5,7 +5,7 @@
 
  My goal is to be proficient in the fundamentals of development and code security to land an entry level DevSecOps position!
 
- Gitlab Link: https://gitlab.com/Zachdehooge
+ Check out my Gitlab link for more projects: https://gitlab.com/Zachdehooge
 ## Languages and Tools 🛠 
 [![Languages and Tools](https://skillicons.dev/icons?i=golang,python,powershell,bash,linux,azure,vscode)](https://skillicons.dev)
 
