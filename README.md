@@ -5,7 +5,7 @@
 
  Check out my Gitlab link for more projects: https://gitlab.com/Zachdehooge
 ## Languages and Tools 🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=golang,python,powershell,bash,linux,azure,vscode)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=golang,rust,python,powershell,bash,linux)](https://skillicons.dev)
 
 ## Socials
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
