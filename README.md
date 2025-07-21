@@ -5,12 +5,12 @@
 
  Check out my Gitlab link for more projects: https://gitlab.com/Zachdehooge
 ## Languages and Tools 🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=golang,rust,python,powershell,bash,linux)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=golang,zig,python,powershell,bash,linux)](https://skillicons.dev)
 
 ## Socials
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
 
-<a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a>
+<!-- <a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a> -->
 
 [![wakatime](https://wakatime.com/badge/user/6a993b56-d46c-4efe-9ba6-1a65c094fea1.svg)](https://wakatime.com/@6a993b56-d46c-4efe-9ba6-1a65c094fea1)
 
