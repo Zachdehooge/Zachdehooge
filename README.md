@@ -3,9 +3,10 @@
 ## Howdy!
  My name is Zach DeHooge, I am a 25 year old Site Reliability Engineer!🤠
 
- Check out my Gitlab link for more projects: https://gitlab.com/Zachdehooge
-## Languages and Tools 🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=golang,zig,python,powershell,bash,linux)](https://skillicons.dev)
+I am passionate about automation and developing projects that reduce my day to day toil through utilization of pipelines and various programming languages!
+
+## Languages and Tools I am Using🛠 
+[![Languages and Tools](https://skillicons.dev/icons?i=golang,zig,python,powershell,bash,linux,githubactions)](https://skillicons.dev)
 
 ## Socials
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
