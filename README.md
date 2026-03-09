@@ -9,7 +9,7 @@ I am passionate about automation and developing projects that reduce my day to d
 [![Languages and Tools](https://skillicons.dev/icons?i=golang,zig,python,powershell,bash,linux,githubactions)](https://skillicons.dev)
 
 ## Socials
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachdehooge&show_icons=true&theme=gruvbox)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zachdehooge?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- <a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a> -->
 
