@@ -9,12 +9,11 @@ I am passionate about automation and developing projects that reduce my day to d
 [![Languages and Tools](https://skillicons.dev/icons?i=golang,zig,python,powershell,bash,linux,githubactions)](https://skillicons.dev)
 
 ## Socials
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zachdehooge?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zachdehooge&theme=dark)](https://git.io/streak-stats)
 
 <!-- <a href="https://tryhackme.com/p/Zach.DeHooge"><img src="https://tryhackme-badges.s3.amazonaws.com/Zach.DeHooge.png"  alt="TryHackMe"/></a> -->
 
 [![wakatime](https://wakatime.com/badge/user/6a993b56-d46c-4efe-9ba6-1a65c094fea1.svg)](https://wakatime.com/@6a993b56-d46c-4efe-9ba6-1a65c094fea1)
-
 
 <!--  [![TryHackMe](http://img.shields.io/badge/-TryHackMe-c20000?style=flat-square&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/Zach.DeHooge)
   
