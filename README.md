@@ -1,12 +1,12 @@
 <div align="center">
   
 ## Howdy!
- My name is Zach DeHooge, I am a 26 year old Site Reliability Engineer!🤠
+ My name is Zach DeHooge, I am a 26-year-old Site Reliability Engineer!🤠
 
 I’m passionate about automation and enjoy building projects that streamline my day-to-day work by reducing toil through pipelines and a variety of programming languages.
 
 ## Languages and Tools I am Using🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=go,python,bash,linux,githubactions)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=go,java,python,bash,linux,githubactions)](https://skillicons.dev)
 
 ## Socials
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zachdehooge&theme=dark)](https://git.io/streak-stats)
