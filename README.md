@@ -6,7 +6,7 @@
 I’m passionate about automation and enjoy building projects that streamline my day-to-day work by reducing toil through pipelines and a variety of programming languages.
 
 ## Languages and Tools I am Using🛠 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,linux)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,go,linux)](https://skillicons.dev)
 
 ## Socials
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zachdehooge&theme=dark)](https://git.io/streak-stats)
